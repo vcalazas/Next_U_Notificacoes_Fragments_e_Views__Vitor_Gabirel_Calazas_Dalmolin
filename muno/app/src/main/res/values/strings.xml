@@ -13,10 +13,10 @@
     </string-array>
 
     <string-array name="classDescription">
-        <item>Description Cordas</item>
-        <item>Description Percussão</item>
-        <item>Description Sopro</item>
-        <item>Description Elétricos</item>
+        <item>Instrumentos de cordas são instrumentos musicais cuja fonte primária de som é a vibração de uma [pressionada corda (música)|corda]] tensionada quando beliscada, percutida. Na classificação Hornbostel-Sachs, bastante utilizada atualmente, estes instrumentos representam a classe dos cordofones identificada pelos códigos iniciados pelo número 3.</item>
+        <item>Instrumento de percussão é um instrumento musical cujo som é obtido através de: impacto (percussão), raspagem ou agitação, com ou sem o auxílio de baquetas.</item>
+        <item>Instrumentos de sopro ou instrumentos de vento são instrumentos musicais em que o som é produzido pela vibração de uma coluna de ar. Na organologia moderna que utiliza a classificação Hornbostel-Sachs, os instrumentos de sopro formam uma subcategoria da classe dos aerofones identificada pelo código 42.</item>
+        <item>Há muito tempo a utilização de técnicas eletrônicas já se tornou parte do mundo da música. Desde grupos focados puramente nas vertentes da música eletrônica até aqueles cuja produção depende de instrumentos acústicos, como bandas de rock, costumam utilizar constantemente alguma espécie de equipamento que possibilita obter sons e efeitos totalmente diferentes daqueles encontrados naturalmente.</item>
     </string-array>
 
 </resources>
