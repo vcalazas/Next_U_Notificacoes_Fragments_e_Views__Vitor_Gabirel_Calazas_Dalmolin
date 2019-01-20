@@ -3,4 +3,20 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="descri_o">Descrição</string>
+
+    <string-array name="classI">
+        <item>Cordas</item>
+        <item>Percussão</item>
+        <item>Sopro</item>
+        <item>Elétricos</item>
+    </string-array>
+
+    <string-array name="classDescription">
+        <item>Description Cordas</item>
+        <item>Description Percussão</item>
+        <item>Description Sopro</item>
+        <item>Description Elétricos</item>
+    </string-array>
+
 </resources>
